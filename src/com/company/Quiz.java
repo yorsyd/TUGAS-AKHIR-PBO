@@ -28,7 +28,7 @@ public class Quiz implements ActionListener{
 
     char tebak; // menampung tebakan
     char jawab; // menampung jawaban
-    int index; // menammpung
+    int index; // deklarasi index
     int tebakanBenar = 0; // menampung tebakan yang benar
     int totalPertanyaan = pertanyaan.length; // banyak pertanyaan
     int hasil; //
